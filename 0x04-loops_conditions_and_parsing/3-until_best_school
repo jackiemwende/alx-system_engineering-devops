@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
-# This prints using "until"
-x=10
-until [ $x -lt 1 ];
-do
-     echo "Best School"
-     x=$((x - 1))
+# Prints "Best School" 10 times
+i=0
+until [[ $i -eq 10 ]]; do
+  echo "Best School"
+  i="$((i + 1))"
 done

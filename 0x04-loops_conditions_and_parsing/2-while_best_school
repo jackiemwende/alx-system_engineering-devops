@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
-# This script prints "Betty School" ten times using while loop
-x=1
-while [ $x -le 10 ]
-do
+# Prints "Best School" 10 times
+i=0
+while [[ $i -lt 10 ]]; do
   echo "Best School"
-  x=$(( x + 1 ))
+  i="$((i + 1))"
 done
