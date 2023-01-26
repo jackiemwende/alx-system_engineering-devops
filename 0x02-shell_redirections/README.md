@@ -1,1 +1,1 @@
-Writing shell redirections commands and making them executable files
+This project covers basic concepts in Shell, I/O Redirections and filters
