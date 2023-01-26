@@ -1,1 +1,2 @@
-This project covers basic concepts in Shell, I/O Redirections and filters
+Welcome to shell redirections directory,
+You can find some helpful tip
