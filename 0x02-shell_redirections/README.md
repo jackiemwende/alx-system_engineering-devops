@@ -1,2 +1,1 @@
-shell redirection readme
-Everything about the I/O redirections
+Terminal redirection and pipelines
